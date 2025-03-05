@@ -2,7 +2,7 @@
   "name": "x-countries-search2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mrinmoy96.github.io/x-countries-search2", 
+  "homepage": "http://mrinmoy96.github.io/x-countries-search2",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
